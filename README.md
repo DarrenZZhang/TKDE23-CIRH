@@ -1,5 +1,5 @@
 # CIRH
-Work Together: Correlation-Identity Reconstruction Hashing for Unsupervised Cross-modal Retrieval
+L. Zhu, X. Wu, J. Li, Z. Zhang, W. Guan, H. T. Shen, Work Together: Correlation-Identity Reconstruction Hashing for Unsupervised Cross-modal Retrieval, IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no.9, pp. 8838-8851, 2023.
 
 
 ### Recommendation
